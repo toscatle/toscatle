@@ -7,7 +7,7 @@ You can connect with me via [email](mailto:toscatle@gmail.com) or [LinkedIn](htt
 ***
 
 ### 👀 What I'm currently working on...
-Now that my bootcamp has come to an end, I'll be focusing my efforts on updating my [blog](https://toscatle.medium.com/) and continuing to improve my understanding of data science fundamentals. 
+Now that my bootcamp has come to an end, I'll be focusing my efforts on updating my [blog](https://toscatle.medium.com/), refining any projects, and continuing to improve my understanding of data science fundamentals. 
 ***
 
 ### ⚙️ Skills
