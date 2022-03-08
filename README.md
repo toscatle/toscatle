@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @toscatle!
 My name is Tosca Le, and I recently completed a Data Science bootcamp at Flatiron School. I come from a background of Biopsychology and Public Health, and I'm excited to continue learning to merge my interests in health tech!
 
-I'm currently based in Pasadena, CA and am looking for remote Data Analyst/Scientist opporunities or based either in Southern California or the DC-Maryland-Virginia area.
+I'm currently based in Pasadena, CA and am looking for remote Data Analyst/Scientist opporunities or based in the DC-Maryland-Virginia area.
 
 You can connect with me via [email](mailto:toscatle@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tosca-le-/).
 ***
