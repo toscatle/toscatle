@@ -1,13 +1,9 @@
 ### 👋 Hi, I’m @toscatle!
-My name is Tosca Le, and I recently completed a Data Science bootcamp at Flatiron School. I come from a background of Biopsychology and Public Health, and I'm excited to continue learning to merge my interests in health tech!
+My name is Tosca Le, and I completed a Data Science bootcamp at Flatiron School in winter of 2021. I come from a background of Biopsychology and Public Health, and I'm excited to continue learning to merge my interests in health tech!
 
-I'm currently based in Pasadena, CA and am looking for remote Data Analyst/Scientist opportunities.
+I'm currently based in Maryland and working as a Scientific Data Analyst with Leidos Biomendical Research, Inc.
 
 You can connect with me via [email](mailto:toscatle@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tosca-le-/).
-***
-
-### 👀 What I'm currently working on...
-Now that my bootcamp has come to an end, I'll be focusing my efforts on updating my [blog](https://toscatle.medium.com/), refining any projects, and continuing to improve my understanding of data science fundamentals. 
 ***
 
 ### ⚙️ Skills
